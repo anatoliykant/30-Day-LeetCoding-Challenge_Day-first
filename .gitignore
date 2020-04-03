@@ -1,2 +1,7 @@
 ## OSX 
 .DS_Store
+
+# iOS
+xcuserdata/
+*.xcuserdatad
+*.xcuserstate
