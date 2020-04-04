@@ -13,6 +13,8 @@ Spread every day's solution.
 - [x] [Day third](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/new/master?readme=1#day-third---maximum-subarray)
 - [ ] [Day fourth](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/blob/master/README.md#day-fourth---move-zeroes)
 - [ ] Day fifth
+- [ ] Day sixth
+- [ ] Day seventh
 
 ## Week 2
 ## Week 3
