@@ -19,8 +19,6 @@
 //
 //    If you have figured out the O(n) solution, try coding another solution using the divide and conquer approach, which is more subtle.
 
-import Foundation
-
 let zeroArray = [-2, 1, -3, 4, -1, 2, 1, -5, 4]             // result 6
 let firstArray = [-2, 1, -3, 4, -1, 2, 1, -5, 4, 3]         // result 8
 let secondArray = [-5, 3, 6, -10, 43, -87, -2, 50, 47, -13] // result 97
