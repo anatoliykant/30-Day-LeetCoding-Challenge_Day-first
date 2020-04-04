@@ -30,9 +30,9 @@ let fifthArray = [8, -19, 5, -4, 20]                        // result 21
 let sixthArray = [0, -3, 1, 1]                              // result 2
 let sevethArray = [0, -2, 0]                                // result 0
 
+// First fast solution
+
 class Solution {
-    
-    // First fast solution
     
     func maxSubArray(_ nums: [Int]) -> Int {
         
@@ -52,8 +52,11 @@ class Solution {
         
         return result
     }
+}
     
-    // Second short solution
+// Second short solution
+    
+class Solution2 {
     
     func maxSubArray2(_ nums: [Int]) -> Int {
         if nums.isEmpty { return 0 }
