@@ -74,3 +74,25 @@ Example:
  
 Follow up:
 >If you have figured out the O(n) solution, try coding another solution using the divide and conquer approach, which is more subtle.
+
+#### Day fourth - [Move Zeroes](https://leetcode.com/explore/other/card/30-day-leetcoding-challenge/528/week-1/3285/)
+
+Given an array nums, write a function to move all 0's to the end of it while maintaining the relative order of the non-zero elements.
+
+Example:
+```
+  Input: [0,1,0,3,12]
+  Output: [1,3,12,0,0]
+  Note:
+```
+##### Notes
+1. You must do this in-place without making a copy of the array.
+2. Minimize the total number of operations.
+
+  Hide Hint #1
+  
+> In-place means we should not be allocating any space for extra array. But we are allowed to modify the existing array. However, as a first step, try coming up with a solution that makes use of additional space. For this problem as well, first apply the idea discussed using an additional array and the in-place solution will pop up eventually.
+  
+  Show Hint #2
+  
+>A two-pointer approach could be helpful here. The idea would be to have one pointer for iterating the array and another pointer that just works on the non-zero elements of the array.
