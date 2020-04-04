@@ -23,7 +23,7 @@ Spread every day's solution.
 
 ### Week 1
 
-#### Day first - [Single Number](https://leetcode.com/problems/single-number)
+#### Day first - [Single Number](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3283)
 Given a non-empty array of integers, every element appears twice except for one. Find that single one.
 
 > Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory?
@@ -41,7 +41,7 @@ Example 2:
   Output: 4
 ```
 
-#### Day second - [Happy Number](https://leetcode.com/explore/other/card/30-day-leetcoding-challenge/528/week-1/3284/)
+#### Day second - [Happy Number](https://leetcode.com/explore/other/card/30-day-leetcoding-challenge/528/week-1/3284)
 
 Write an algorithm to determine if a number is "happy".
 
@@ -61,7 +61,7 @@ Example:
   1^2 + 0^2 + 0^2 = 1
 ```
 
-#### Day third - [Maximum Subarray](https://leetcode.com/explore/other/card/30-day-leetcoding-challenge/528/week-1/3284/)
+#### Day third - [Maximum Subarray](https://leetcode.com/explore/other/card/30-day-leetcoding-challenge/528/week-1/3285)
 
 Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
 
@@ -75,7 +75,7 @@ Example:
 Follow up:
 >If you have figured out the O(n) solution, try coding another solution using the divide and conquer approach, which is more subtle.
 
-#### Day fourth - [Move Zeroes](https://leetcode.com/explore/other/card/30-day-leetcoding-challenge/528/week-1/3285/)
+#### Day fourth - [Move Zeroes](https://leetcode.com/explore/other/card/30-day-leetcoding-challenge/528/week-1/3286)
 
 Given an array nums, write a function to move all 0's to the end of it while maintaining the relative order of the non-zero elements.
 
