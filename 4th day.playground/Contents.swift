@@ -5,9 +5,10 @@
 
 // Day fouth
 //
-// https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3286/
+// https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3286
 //
 //    Maximum Subarray
+//
 //    Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
 //
 //    Example:
@@ -30,9 +31,9 @@
 //    You must do this in-place without making a copy of the array.
 //    Minimize the total number of operations.
 
-var firstArray = [0, 1, 0, 3, 12]            // result [1, 3, 12, 0, 0]
-var secondArray = [1, 56, 3, 4, 5, 0, 3, 0, 0, 3]
-var thirdArray = [1]
+var firstArray = [0, 1, 0, 3, 12]                   // result [1, 3, 12, 0, 0]
+var secondArray = [1, 56, 3, 4, 5, 0, 3, 0, 0, 3]   // result [1, 56, 3, 4, 5, 3, 3, 0, 0, 0]
+var thirdArray = [1]                                // result [1]
 
 // First short solution - O(n^2)
 
