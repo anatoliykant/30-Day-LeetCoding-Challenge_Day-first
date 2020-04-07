@@ -14,7 +14,7 @@ Spread every day's solution.
 - [x] [Day fourth](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/blob/master/README.md#day-fourth---move-zeroes)
 - [x] [Day fifth](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/blob/master/README.md#day-fifth---best-time-to-buy-and-sell-stock-ii)
 - [x] [Day sixth](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/blob/master/README.md#day-sixth---group-anagrams)
-- [ ] [Day seventh]
+- [ ] [Day seventh](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/blob/master/README.md#day-seventh---counting-elements)
 
 ## Week 2
 ## Week 3
