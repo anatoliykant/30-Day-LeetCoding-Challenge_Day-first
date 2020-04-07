@@ -13,7 +13,7 @@ Spread every day's solution.
 - [x] [Day third](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/new/master?readme=1#day-third---maximum-subarray)
 - [x] [Day fourth](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/blob/master/README.md#day-fourth---move-zeroes)
 - [x] [Day fifth](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/blob/master/README.md#day-fifth---best-time-to-buy-and-sell-stock-ii)
-- [ ] Day sixth
+- [x] [Day sixth]()
 - [ ] Day seventh
 
 ## Week 2
@@ -75,7 +75,7 @@ Example:
  ```
  
 Follow up:
->If you have figured out the O(n) solution, try coding another solution using the divide and conquer approach, which is more subtle.
+> If you have figured out the O(n) solution, try coding another solution using the divide and conquer approach, which is more subtle.
 
 #### Day fourth - [Move Zeroes](https://leetcode.com/explore/other/card/30-day-leetcoding-challenge/528/week-1/3286)
 
@@ -97,7 +97,7 @@ Example:
   
   Show Hint #2
   
->A two-pointer approach could be helpful here. The idea would be to have one pointer for iterating the array and another pointer that just works on the non-zero elements of the array.
+> A two-pointer approach could be helpful here. The idea would be to have one pointer for iterating the array and another pointer that just works on the non-zero elements of the array.
 
 #### Day fifth - [Best Time to Buy and Sell Stock II](https://leetcode.com/explore/other/card/30-day-leetcoding-challenge/528/week-1/3287)
 
@@ -128,3 +128,22 @@ Example 3:
   Output: 0
   Explanation: In this case, no transaction is done, i.e. max profit = 0.
 ```
+
+#### Day sixth - [Group Anagrams](https://leetcode.com/explore/other/card/30-day-leetcoding-challenge/528/week-1/3288)
+  
+Given an array of strings, group anagrams together.
+
+Example:
+```
+  Input: ["eat", "tea", "tan", "ate", "nat", "bat"],
+  Output:
+  [
+    ["ate","eat","tea"],
+    ["nat","tan"],
+    ["bat"]
+  ]
+```
+##### Note:
+
+All inputs will be in lowercase.
+The order of your output does not matter.
