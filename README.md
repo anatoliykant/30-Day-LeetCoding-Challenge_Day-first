@@ -18,13 +18,13 @@ Spread every day's solution.
 
 ## Week 2
 
-- [ ] [Day first]()
-- [ ] [Day second]()
-- [ ] [Day third]()
-- [ ] [Day fourth]()
-- [ ] [Day fifth]()
-- [ ] [Day sixth]()
-- [ ] [Day seventh]()
+- [ ] Day first
+- [ ] Day second
+- [ ] Day third
+- [ ] Day fourth
+- [ ] Day fifth
+- [ ] Day sixth
+- [ ] Day seventh
 
 ## Week 3
 ## Week 4
