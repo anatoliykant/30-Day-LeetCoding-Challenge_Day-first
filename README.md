@@ -6,7 +6,7 @@ Every day you need to solve one problem.
 
 Spread every day's solution.
 
-## Week 1
+## [Week 1](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/blob/master/README.md#week-1-1)
 
 - [x] [Day first](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/new/master?readme=1#day-first---single-number)
 - [x] [Day second](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/new/master?readme=1#day-second---happy-number)
@@ -16,9 +16,9 @@ Spread every day's solution.
 - [x] [Day sixth](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/blob/master/README.md#day-sixth---group-anagrams)
 - [x] [Day seventh](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/blob/master/README.md#day-seventh---counting-elements)
 
-## Week 2
+## [Week 2](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/blob/master/README.md#week-2-1)
 
-- [ ] [Day first]
+- [ ] [Day first](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/blob/master/README.md#day-first---middle-of-the-linked-list)
 - [ ] Day second
 - [ ] Day third
 - [ ] Day fourth
