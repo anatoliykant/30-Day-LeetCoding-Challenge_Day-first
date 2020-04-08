@@ -17,6 +17,15 @@ Spread every day's solution.
 - [x] [Day seventh](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/blob/master/README.md#day-seventh---counting-elements)
 
 ## Week 2
+
+- [ ] [Day first]()
+- [ ] [Day second]()
+- [ ] [Day third]()
+- [ ] [Day fourth]()
+- [ ] [Day fifth]()
+- [ ] [Day sixth]()
+- [ ] [Day seventh]()
+
 ## Week 3
 ## Week 4
 ## Week 5
