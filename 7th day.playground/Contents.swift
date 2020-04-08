@@ -54,8 +54,33 @@ let arr5 = [1, 1, 2]                    // result 2
 
 print(Solution().countElements3(arr1))
 
-class Solution {    
+// First short & slow solution - O(n^2)
+
+class Solution {
     func countElements3(_ arr: [Int]) -> Int {
         return arr.filter{ arr.contains($0 + 1)}.count
+    }
+}
+
+// Second fast solution - O(n)
+
+class Solution2 {
+    func countElements(_ arr: [Int]) -> Int {
+        
+        var dict = [Int: Int]()
+        var counter = 0
+        
+        for n in arr {
+            if dict[n] == nil {
+                dict[n] = 1
+            } else {
+                dict[n]! += 1
+            }
+        }
+        
+        for k in arr where dict[k + 1] != nil {
+            counter += 1
+        }
+        return counter
     }
 }
