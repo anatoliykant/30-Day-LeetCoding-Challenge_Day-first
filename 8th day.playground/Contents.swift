@@ -64,7 +64,7 @@ let arr2 = [1, 2, 3, 4, 5, 6]   // result [4,5,6]
 
 dump(Solution().middleNode(createNode(from: arr2)))
 
-// Second solution with two while loops - O(n)
+// First solution with two loops (while, for) - O(n)
 
 class Solution {
     func middleNode(_ head: ListNode?) -> ListNode? {
