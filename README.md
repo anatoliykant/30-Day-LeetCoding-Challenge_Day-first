@@ -18,7 +18,7 @@ Spread every day's solution.
 
 ## [Week 2](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/blob/master/README.md#week-2-1)
 
-- [ ] [Day first](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/blob/master/README.md#day-first---middle-of-the-linked-list)
+- [x] [Day first](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/blob/master/README.md#day-first---middle-of-the-linked-list)
 - [ ] Day second
 - [ ] Day third
 - [ ] Day fourth
