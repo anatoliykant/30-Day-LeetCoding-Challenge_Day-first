@@ -20,7 +20,7 @@ Spread every day's solution.
 
 - [x] [Day first](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/blob/master/README.md#day-first---middle-of-the-linked-list)
 - [x] [Day second](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/blob/master/README.md#day-second---backspace-string-compare)
-- [ ] [Day third](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/blob/master/README.md#day-third---min-stack)
+- [x] [Day third](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/blob/master/README.md#day-third---min-stack)
 - [ ] Day fourth
 - [ ] Day fifth
 - [ ] Day sixth
