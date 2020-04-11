@@ -20,7 +20,7 @@ Spread every day's solution.
 
 - [x] [Day first](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/blob/master/README.md#day-first---middle-of-the-linked-list)
 - [x] [Day second](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/blob/master/README.md#day-second---backspace-string-compare)
-- [ ] Day third
+- [ ] [Day third](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/blob/master/README.md#day-third---min-stack)
 - [ ] Day fourth
 - [ ] Day fifth
 - [ ] Day sixth
@@ -100,11 +100,11 @@ Example:
 1. You must do this in-place without making a copy of the array.
 2. Minimize the total number of operations.
 
-  Hide Hint #1
+Hint #1
   
 > In-place means we should not be allocating any space for extra array. But we are allowed to modify the existing array. However, as a first step, try coming up with a solution that makes use of additional space. For this problem as well, first apply the idea discussed using an additional array and the in-place solution will pop up eventually.
   
-  Show Hint #2
+Hint #2
   
 > A two-pointer approach could be helpful here. The idea would be to have one pointer for iterating the array and another pointer that just works on the non-zero elements of the array.
 
@@ -197,11 +197,11 @@ Constraints:
 
 `0 <= arr[i] <= 1000`
 
-#####   Hide Hint #1  
-Use hashset to store all elements.
+Hint #1  
+> Use hashset to store all elements.
 
-#####   Hide Hint #2  
-Loop again to count all valid elements.
+Hint #2  
+> Loop again to count all valid elements.
 
 ### Week 2
 
@@ -271,3 +271,32 @@ S and T only contain lowercase letters and '#' characters.
 Follow up:
 
 > Can you solve it in O(N) time and O(1) space?
+
+#### Day third - [Min Stack](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3292)
+
+Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
+
+`push(x)` -- Push element x onto stack.
+
+`pop()` -- Removes the element on top of the stack.
+
+`top()` -- Get the top element.
+
+`getMin()` -- Retrieve the minimum element in the stack.
+ 
+
+Example:
+```
+MinStack minStack = new MinStack();
+minStack.push(-2);
+minStack.push(0);
+minStack.push(-3);
+minStack.getMin();   --> Returns -3.
+minStack.pop();
+minStack.top();      --> Returns 0.
+minStack.getMin();   --> Returns -2.
+```
+ 
+
+Hint #1  
+> Consider each node in the stack having a minimum value. (Credits to @aakarshmadhavan)
