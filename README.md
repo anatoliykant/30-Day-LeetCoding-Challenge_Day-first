@@ -22,7 +22,7 @@ Spread every day's solution.
 - [x] [Day second](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/blob/master/README.md#day-second---backspace-string-compare)
 - [x] [Day third](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/blob/master/README.md#day-third---min-stack)
 - [x] [Day fourth](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/blob/master/README.md#day-fourth---diameter-of-binary-tree)
-- [ ] Day fifth
+- [x] [Day fifth](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/blob/master/README.md#day-fourth---last-stone-weight)
 - [ ] Day sixth
 - [ ] Day seventh
 
@@ -283,7 +283,6 @@ Design a stack that supports push, pop, top, and retrieving the minimum element 
 `top()` -- Get the top element.
 
 `getMin()` -- Retrieve the minimum element in the stack.
- 
 
 Example:
 ```
@@ -296,9 +295,8 @@ minStack.pop();
 minStack.top();      --> Returns 0.
 minStack.getMin();   --> Returns -2.
 ```
- 
 
-Hint #1  
+Hint #1 
 > Consider each node in the stack having a minimum value. (Credits to @aakarshmadhavan)
 
 #### Day fourth - [Diameter of Binary Tree](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3293)
@@ -319,3 +317,32 @@ Return 3, which is the length of the path [4,2,1,3] or [5,2,1,3].
 ##### Note:
 
 The length of path between two nodes is represented by the number of edges between them.
+
+#### Day fifth - [Last Stone Weight](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3297)
+
+We have a collection of stones, each stone has a positive integer weight.
+
+Each turn, we choose the two heaviest stones and smash them together.  Suppose the stones have weights x and y with x <= y.  The result of this smash is:
+
+If x == y, both stones are totally destroyed;
+If x != y, the stone of weight x is totally destroyed, and the stone of weight y has new weight y-x.
+At the end, there is at most 1 stone left.  Return the weight of this stone (or 0 if there are no stones left.)
+
+Example 1:
+```
+Input: [2,7,4,1,8,1]
+Output: 1
+Explanation: 
+We combine 7 and 8 to get 1 so the array converts to [2,4,1,1,1] then,
+we combine 2 and 4 to get 2 so the array converts to [2,1,1,1] then,
+we combine 2 and 1 to get 1 so the array converts to [1,1,1] then,
+we combine 1 and 1 to get 0 so the array converts to [1] then that's the value of last stone.
+```
+
+##### Note:
+
+1 <= stones.length <= 30
+1 <= stones[i] <= 1000
+
+Hint #1
+> Simulate the process. We can do it with a heap, or by sorting some list of stones every time we take a turn.
