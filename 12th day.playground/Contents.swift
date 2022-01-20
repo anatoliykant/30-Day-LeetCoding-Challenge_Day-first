@@ -5,7 +5,7 @@
 
 // Day twelfth (Weak 2 Day fith)
 //
-// https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3297
+// https://leetcode.com/problems/last-stone-weight/
 //
 //	Last Stone Weight
 //
