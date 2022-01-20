@@ -5,7 +5,7 @@
 
  // Day ninth (Weak 2 Day second)
  //
- // https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3291
+ // https://leetcode.com/problems/backspace-string-compare/
  //
  //    Backspace String Compare
  //
