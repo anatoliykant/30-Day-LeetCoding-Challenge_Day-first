@@ -5,7 +5,7 @@
 
 // Day fifth
 //
-// https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3287
+// https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 //
 //    Best Time to Buy and Sell Stock II
 //
