@@ -5,7 +5,7 @@
 
 // Day eighth (Weak 2 Day first)
 //
-// https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3290/
+// https://leetcode.com/problems/middle-of-the-linked-list/
 //
 //    Middle of the Linked List
 //
