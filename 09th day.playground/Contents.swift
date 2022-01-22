@@ -53,7 +53,7 @@
 
  print(Solution1().backspaceCompare(S10, T10))
 
- // Fisrt direct solution
+ // First direct solution
 
  class Solution1 {
      
