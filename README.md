@@ -8,9 +8,9 @@ Spread every day's solution.
 
 ## [Week 1](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/blob/master/README.md#week-1-1)
 
-- [x] [Day first](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/new/master?readme=1#day-first---single-number)
-- [x] [Day second](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/new/master?readme=1#day-second---happy-number)
-- [x] [Day third](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/new/master?readme=1#day-third---maximum-subarray)
+- [x] [Day first](https://github.com/anatoliykant/ADS_Leetcode_30-Day-LeetCoding-Challenge/blob/master/README.md#day-first---single-number)
+- [x] [Day second](https://github.com/anatoliykant/ADS_Leetcode_30-Day-LeetCoding-Challenge/blob/master/README.md#day-second---happy-number)
+- [x] [Day third](https://github.com/anatoliykant/ADS_Leetcode_30-Day-LeetCoding-Challenge/blob/master/README.md#day-third---maximum-subarray)
 - [x] [Day fourth](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/blob/master/README.md#day-fourth---move-zeroes)
 - [x] [Day fifth](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/blob/master/README.md#day-fifth---best-time-to-buy-and-sell-stock-ii)
 - [x] [Day sixth](https://github.com/anatoliykant/30-Day-LeetCoding-Challenge/blob/master/README.md#day-sixth---group-anagrams)
